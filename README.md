@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Annabelle5474/Annabelle5474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I’m a senior Computer Science student at Iowa State University who’s genuinely passionate about building things with code especially when it involves software development, machine learning, or both.
 
-Here are some ideas to get you started:
+Whether it’s backend systems, AI-powered tools, or something experimental, I get excited solving problems and seeing things come to life. 
+Some of my technical skills, many of which I've used during my internships or personal projects, help me turn ideas into real, working apps.
+My project, OttoNote, an AI-based productivity app for students that uses speech-to-text, OCR, and document classification, was built with Java, AWS, OpenAI, and a lot of late-night debugging. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What drives me? The belief that technology can actually help people make learning easier, work more efficient, or data more meaningful.
+
+Right now, I’m looking for new challenges internships or entry-level roles where I can grow fast, learn from great teams, and help build tech that matters.
+
+Let’s connect if you’re into code, AI, or just love building cool stuff!Hey there! I’m a senior Computer Science student at Iowa State University who’s genuinely passionate about building things with code especially when it involves software development, machine learning, or both. Whether it’s backend systems, AI-powered tools, or something experimental, I get excited solving problems and seeing things come to life. Some of my technical skills, many of which I've used during my internships or personal projects, help me turn ideas into real, working apps. My project, OttoNote, an AI-based productivity app for students that uses speech-to-text, OCR, and document classification, was built with Java, AWS, OpenAI, and a lot of late-night debugging. What drives me? The belief that technology can actually help people make learning easier, work more efficient, or data more meaningful. Right now, I’m looking for new challenges internships or entry-level roles where I can grow fast, learn from great teams, and help build tech that matters. Let’s connect if you’re into code, AI, or just love building cool stuff!
+
